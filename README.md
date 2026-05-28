@@ -3,10 +3,6 @@
 
 **ZAPP-AI** is a powerful AI SaaS application that offers a suite of AI-driven tools to streamline your content and image workflows — from article and blog generation to resume reviews and image manipulation. Built with **React**, **Node.js**, **Clerk**, and **Gemini API**, it combines performance with simplicity.
 
-## 💻 Deployed App
-
-👉 [Try it live!](https://zapp-ai-zeta.vercel.app/)
-
 ## 📸 Preview
 
 ### 📌 Landing Page
